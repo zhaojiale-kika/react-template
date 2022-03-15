@@ -20,6 +20,7 @@ const Login: React.FC = () => {
   return (
     <div>
       <h2>login</h2>
+      <h1>增加新的数据</h1>
       <button onClick={() => login()}>登录</button>
     </div>
   )
