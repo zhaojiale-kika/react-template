@@ -21,6 +21,7 @@ const Login: React.FC = () => {
     <div>
       <h2>login</h2>
       <h1>增加新的数据</h1>
+      <h2>增加的数据2</h2>
       <button onClick={() => login()}>登录</button>
     </div>
   )
